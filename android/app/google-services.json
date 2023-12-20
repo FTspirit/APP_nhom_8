@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776595240434",
+    "project_id": "test-login-8c7d4",
+    "storage_bucket": "test-login-8c7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776595240434:android:060bf5a0de41de5400276b",
+        "android_client_info": {
+          "package_name": "com.hrm_happy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776595240434-m9mos1j3mrfb03f51ci3s1q3t968vp6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrm_happy",
+            "certificate_hash": "4677057644c19ef13c082b5619363e6c24d2347d"
+          }
+        },
+        {
+          "client_id": "776595240434-ajaq57nh193qtk6iee5b368m4tvmioni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAia8GEhbC9YDFE9DNA8_pWN5-5PQnSxkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776595240434-ajaq57nh193qtk6iee5b368m4tvmioni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
